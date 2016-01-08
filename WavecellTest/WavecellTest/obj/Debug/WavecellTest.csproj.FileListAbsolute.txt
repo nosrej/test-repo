@@ -1,0 +1,5 @@
+F:\zJerson Files\Projects\WavecellTest\WavecellTest\bin\WavecellTest.dll
+F:\zJerson Files\Projects\WavecellTest\WavecellTest\bin\WavecellTest.pdb
+F:\zJerson Files\Projects\WavecellTest\WavecellTest\obj\Debug\WavecellTest.dll
+F:\zJerson Files\Projects\WavecellTest\WavecellTest\obj\Debug\WavecellTest.pdb
+F:\zJerson Files\Projects\WavecellTest\WavecellTest\obj\Debug\WavecellTest.csprojResolveAssemblyReference.cache
